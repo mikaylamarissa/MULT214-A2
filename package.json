@@ -2,7 +2,7 @@
   "name": "todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mikaylalafond.ca/mult214/",
+  "homepage": "https://mikaylamarissa.github.io/MULT214-A2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
