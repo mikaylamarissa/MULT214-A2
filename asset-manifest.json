@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mult214/static/css/main.a9e5b8ab.css",
+    "main.js": "/mult214/static/js/main.7a4be50a.js",
+    "static/js/787.2843ca88.chunk.js": "/mult214/static/js/787.2843ca88.chunk.js",
+    "index.html": "/mult214/index.html",
+    "main.a9e5b8ab.css.map": "/mult214/static/css/main.a9e5b8ab.css.map",
+    "main.7a4be50a.js.map": "/mult214/static/js/main.7a4be50a.js.map",
+    "787.2843ca88.chunk.js.map": "/mult214/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9e5b8ab.css",
+    "static/js/main.7a4be50a.js"
+  ]
+}
